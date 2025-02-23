@@ -1,0 +1,27 @@
+{
+  "name": "easyyt-dl",
+  "version": "0.1.0",
+  "description": "YouTube Downloader",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whoskeko/EasyYT-dl.git"
+  },
+  "keywords": [
+    "YouTube",
+    "Downloader"
+  ],
+  "author": "Whoskeko",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Whoskeko/EasyYT-dl/issues"
+  },
+  "homepage": "https://github.com/Whoskeko/EasyYT-dl#readme",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
